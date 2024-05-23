@@ -11,3 +11,8 @@ sudo yum -y install terraform
 
 terraform --version
 
+Terraform runs on 4 commands
+terraform init  ->initialize
+terraform plan  ->Dry run
+terraform apply
+terraform destroy
